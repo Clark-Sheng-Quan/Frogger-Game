@@ -1,6 +1,6 @@
 # Frogger SVG Game
 
-All of your changes, code, and game files should be in the src folder.
+https://clark-sheng-quan.github.io/Frogger-game/
 
 ## Development
 
