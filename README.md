@@ -8,7 +8,7 @@ Play it live: [Frogger Web Game](https://clark-sheng-quan.github.io/Frogger-game
 
 ##  About Frogger
 
-[Frogger](https://en.wikipedia.org/wiki/Frogger) is a timeless 1981 arcade action game from Konami (distributed by Sega in North America). In the game, players must guide a frog across a busy road and navigate treacherous rivers—jumping on logs, turtles, and other hazards—to reach its home safely :contentReference[oaicite:0]{index=0}.
+[Frogger](https://en.wikipedia.org/wiki/Frogger) is a timeless 1981 arcade action game from Konami (distributed by Sega in North America). In the game, players must guide a frog across a busy road and navigate treacherous rivers—jumping on logs, turtles, and other hazards—to reach its home safely.
 
 ---
 
