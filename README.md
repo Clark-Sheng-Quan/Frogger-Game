@@ -2,7 +2,7 @@
 
 A faithful web-based remake of the classic arcade game **Frogger**, brought to life using HTML, CSS, and JavaScript.
 
-Play it live: [Frogger Web Game](https://clark-sheng-quan.github.io/Frogger-game/)
+Play it live: [Frogger Web Game](https://clark-sheng-quan.github.io/Frogger-Game/)
 
 ---
 
